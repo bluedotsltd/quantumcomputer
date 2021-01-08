@@ -1,30 +1,4 @@
 ## Quantum Computer For Sale
 
-You can use the [editor on GitHub](https://github.com/bluedotsltd/quantumcomputer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Looking to buy a quantum computer for your business or personal needs? To be hones, quantum compters are currently not avaibale for sale. But this is why we are here. To inform you once this is done and you could order the machine that you need!  
 
