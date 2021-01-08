@@ -9,6 +9,11 @@ body {
  font-family: 'Open Sans', sans-serif;
 }
 
+#wrapper {
+ max-width: 1200px;
+ width: auto;
+}
+
 .h1 {
  font-size: 40px; 
 }
